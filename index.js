@@ -10,4 +10,4 @@ console.log("Twitter: <https://twitter.com/BradleyHolt>");
 console.log("GitHub: <https://www.github.com/bradley-holt>");
 console.log("LinkedIn: <https://www.linkedin.com/in/bradleyholt>");
 console.log("Speaker Deck: <https://speakerdeck.com/bradleyholt>");
-console.log("Stack Overlow: <http://stackoverflow.com/users/4847080/bradley-holt>");
+console.log("Stack Overflow: <http://stackoverflow.com/users/4847080/bradley-holt>");

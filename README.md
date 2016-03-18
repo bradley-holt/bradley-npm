@@ -11,5 +11,5 @@ Twitter: <https://twitter.com/BradleyHolt>
 GitHub: <https://www.github.com/bradley-holt>
 LinkedIn: <https://www.linkedin.com/in/bradleyholt>
 Speaker Deck: <https://speakerdeck.com/bradleyholt>
-Stack Overlow: <http://stackoverflow.com/users/4847080/bradley-holt>
+Stack Overflow: <http://stackoverflow.com/users/4847080/bradley-holt>
 ```
